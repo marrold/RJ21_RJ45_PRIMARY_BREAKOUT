@@ -1,6 +1,8 @@
 # For PCBs designed using KiCad: https://www.kicad.org/
 # Format documentation: https://kicad.org/help/file-formats/
 
+.DS_Store
+
 # Temporary files
 *.000
 *.bak
@@ -24,3 +26,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Gerber ZIP
+*.zip
