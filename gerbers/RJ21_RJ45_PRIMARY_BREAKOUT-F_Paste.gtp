@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(5.1.10-1-10_14)*%
-%TF.CreationDate,2022-02-09T21:22:39+00:00*%
-%TF.ProjectId,RJ21_RJ45_PRIMARY_BREAKOUT,524a3231-5f52-44a3-9435-5f5052494d41,rev?*%
-%TF.SameCoordinates,Original*%
-%TF.FileFunction,Paste,Top*%
-%TF.FilePolarity,Positive*%
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.7)*
+G04 #@! TF.CreationDate,2022-11-27T22:30:53+00:00*
+G04 #@! TF.ProjectId,RJ21_RJ45_PRIMARY_BREAKOUT,524a3231-5f52-44a3-9435-5f5052494d41,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Paste,Top*
+G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.10-1-10_14)) date 2022-02-09 21:22:39*
+G04 Created by KiCad (PCBNEW (6.0.7)) date 2022-11-27 22:30:53*
 %MOMM*%
 %LPD*%
 G01*
