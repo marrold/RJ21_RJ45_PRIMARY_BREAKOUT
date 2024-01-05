@@ -1,12 +1,11 @@
 # For PCBs designed using KiCad: https://www.kicad.org/
 # Format documentation: https://kicad.org/help/file-formats/
 
-.DS_Store
-
 # Temporary files
 *.000
 *.bak
 *.bck
+*.backup
 *.kicad_pcb-bak
 *.kicad_sch-bak
 *-backups
@@ -19,6 +18,9 @@ _autosave-*
 *-save.kicad_pcb
 fp-info-cache
 
+# Netlist files (exported from Eeschema)
+*.net
+
 # Autorouter files (exported from Pcbnew)
 *.dsn
 *.ses
@@ -27,5 +29,5 @@ fp-info-cache
 *.xml
 *.csv
 
-# Gerber ZIP
-*.zip
+# Zipped Gerber files
+Gerbers/*.zip
