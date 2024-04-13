@@ -74,7 +74,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "/Users/matthew/Documents/Devel/kicad/RJ21_RJ45_PRIMARY_BREAKOUT/gerbers/")
+      (outputdirectory "C:/Users/Lenovo L14/Documents/KiCad-Projects/RJ21_RJ45_PRIMARY_BREAKOUT/Gerbers/")
     )
   )
 
